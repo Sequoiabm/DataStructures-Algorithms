@@ -1,0 +1,30 @@
+SEARCH FUNCTION TEST: 
+----------------------------------
+Target Value 10 found at index: 6
+
+ODD FIRST FUNCTION TEST: 
+----------------------------------
+Index #0: 1
+Index #1: 5
+Index #2: 7
+Index #3: 4
+Index #4: 6
+Index #5: 2
+Index #6: 10
+
+REVERSE FUNCTION TEST: 
+----------------------------------
+Index #0: 10
+Index #1: 2
+Index #2: 6
+Index #3: 4
+Index #4: 7
+Index #5: 5
+Index #6: 1
+
+MERGE SORT TEST: 
+----------------------------------
+vOriginal array:
+38 27 43 3 9 82 10 
+Sorted array:
+3 9 10 27 38 43 82 
